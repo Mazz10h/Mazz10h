@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Nus Gabriel
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning software engineering 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me "nusgabriel17@gmail.com"
 
 <!---
